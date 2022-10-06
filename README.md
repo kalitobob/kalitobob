@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kalitobob
 - 👀 I’m interested in coding and cats
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning C#
 - 📫 How to reach me: dm me
 
 <!---
